@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "donjayamanne.python-environment-manager",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
